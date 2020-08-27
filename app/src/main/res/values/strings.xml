@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Simple Notes</string>
+    <string name="label_title_notes">title notes</string>
+    <string name="add_word">ic add</string>
 </resources>
