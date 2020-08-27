@@ -2,4 +2,5 @@
 <resources>
     <dimen name="padding_normal">16dp</dimen>
     <dimen name="margin_8">8dp</dimen>
+    <dimen name="min_height">48dp</dimen>
 </resources>

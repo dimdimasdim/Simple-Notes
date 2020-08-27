@@ -2,4 +2,9 @@
     <string name="app_name">Simple Notes</string>
     <string name="label_title_notes">title notes</string>
     <string name="add_word">ic add</string>
+
+    <string name="hint_title">Title…</string>
+    <string name="button_save">Save</string>
+    <string name="empty_not_saved">Note not saved because it is empty.</string>
+    <string name="hint_desc">Description…</string>
 </resources>
